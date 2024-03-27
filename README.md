@@ -15,7 +15,8 @@
 
 **本字型目前僅使用大寫字母呈現文字。**<br/>
 
-![Lemuria](https://github.com/Menoctus/Lemuria/assets/165195956/57d2619b-8623-49ef-ba94-4fb9d282ee73)
+![YULAN](https://github.com/Menoctus/Lemuria/assets/165195956/3bc84a31-1ab2-4939-9356-43ee737ac952)
+
 
 ## Ranges
 
