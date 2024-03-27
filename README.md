@@ -15,7 +15,7 @@
 
 **本字型目前僅使用大寫字母呈現文字。**<br/>
 
-![L](https://github.com/Menoctus/Lemuria/assets/165195956/01d90b1a-859e-4889-94b5-d047e35362da)
+![Lemuria](https://github.com/Menoctus/Lemuria/assets/165195956/d824c674-ff2e-4796-99b8-ea021a807dd4)
 
 ## Ranges
 
