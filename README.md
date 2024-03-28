@@ -9,7 +9,7 @@
 
 一套基於遊戲內出現的無襯線靜態字型專案、以供呈現用於禁忌卡牌構築遊戲《忘卻前夜》中架空勢力「利莫裡亞」之架空文字所用。
 
-英　　文：Lemuria Sans-serif
+英　　文：Lemuria Sans-serif　*/lɪˈmjʊəriə/*
 
 ## Preview
 
