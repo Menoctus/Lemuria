@@ -40,7 +40,7 @@
 
 可以透過以下連結聯繫 Menoctus:
 
-[![SinaWeibo](https://img.shields.io/badge/SinaWeibo-E6162D?style=flat-square&logo=SinaWeibo&logoColor=fff)](https://weibo.com/u/7899814735)
+[![SinaWeibo](https://img.shields.io/badge/Sina_Weibo-E6162D?style=flat-square&logo=SinaWeibo&logoColor=fff)](https://weibo.com/u/7899814735)
 [![Bilibili](https://img.shields.io/badge/Bilibili-F79?style=flat-square&logo=Bilibili&logoColor=fff)](https://space.bilibili.com/3494377135541039)
 [![Mail](https://img.shields.io/badge/Outlook_Mail-1898DA?style=flat-square&logo=microsoftoutlook&logoColor=fff)](mailto:Menoctus@outlook.com)
 
